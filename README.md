@@ -60,3 +60,9 @@ Trzeci poziom polega na zbudowaniu jak największej wieży z trójkolorowych blo
 
 ![screen11](/Screens/Poziom3.jpg)
 
+
+### Dodatkowe uwagi
+* Do każdej sceny gry dobrana jest muzyka budująca nastrój gry.
+* W każdym poziomie występuje efekty cząsteczkowe (Particle System).
+* Kolejne poziomy są odblokowywane dopiero po zebraniu Dmuchawca.
+* Dane gry (m.in. wyniki) są zapisywane poprzez PlayerPrefs.
